@@ -1,0 +1,14 @@
+{
+  "launcher": {
+    "version": "1.0",
+    "url": "https://github.com/rrcontracting88/rr-tools-releases/releases/latest/download/RRTools.exe",
+    "changelog": "Initial release"
+  },
+  "scripts": {
+    "gotsms": {
+      "version": "1.0",
+      "url": "https://github.com/rrcontracting88/rr-tools-releases/releases/latest/download/GotSMS.exe",
+      "changelog": "Initial release"
+    }
+  }
+}
