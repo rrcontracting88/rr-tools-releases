@@ -1,8 +1,8 @@
 {
   "launcher": {
-    "version": "1.1.0",
-    "url": "https://www.dropbox.com/scl/fi/bh3y84aybutvyksdcmpy4/FBISoft.exe?rlkey=094v8j3d1x9x4ieww5i4r3vs3&st=jo3hzw9m&dl=1",
-    "changelog": "Добавлена покупка подписки через крипто (XaiGate), автополучение ключа"
+    "version": "1.1.1",
+    "url": "https://www.dropbox.com/scl/fi/7djt1iyljm0bhlch1isyf/FBISoft.exe?rlkey=rikvvkcg272kx8w8qibrdptvl&st=vzaxk16p&dl=1",
+    "changelog": "Исправлено авто-обновление (ошибка Python DLL)"
   },
   "scripts": {
     "parser": {
@@ -24,5 +24,5 @@
       "changelog": "Исправлена ошибка запуска"
     }
   },
-  "sig": "dbea2bbd775fc548e41e32462e7ed4f4d4a679567d9f5bf6784a827f9c328571"
+  "sig": "eb473997c6e2de402879692bf59ad7c7d7e18699b5fee152425aa277eb106db4"
 }
