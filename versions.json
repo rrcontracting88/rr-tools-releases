@@ -1,8 +1,8 @@
 {
   "launcher": {
-    "version": "1.0",
-    "url": "",
-    "changelog": "Initial release"
+    "version": "1.1",
+    "url": "https://www.dropbox.com/scl/fi/vihdfeiq7inxy04ek7jn5/FBISoft.exe?rlkey=dagid4gryb3wii04ypmet3amy&st=xj5uxnva&dl=1",
+    "changelog": "Улучшена защита, добавлен личный кабинет, новости"
   },
   "scripts": {
     "parser": {
