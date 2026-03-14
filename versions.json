@@ -11,7 +11,7 @@
       "version": "1.0.3",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/23yus883yr3jyogyu4uhz/osint_parser.exe?rlkey=x4d0rqi0bwa31x8xtc59c73zg&st=np9h2oit&dl=1",
+      "url": "https://www.dropbox.com/scl/fi/8cbsas0lhwntutf5y7t2a/osint_parser.exe?rlkey=6b6mvfk8uv70d97vf6mrlpovg&st=xbdrz2ae&dl=1",
       "changelog": "Встроенная проксификация через ASocks, новый пункт меню"
     },
     "auto_motion": {
@@ -24,5 +24,5 @@
       "changelog": "Исправлена ошибка запуска"
     }
   },
-  "sig": "35d7d771002bd3dd248e93e8c41c367164b31e501308bac2afb653824b8a561a"
+  "sig": "9437ad82978ce54d578d946714b085b6d1f265a461b15c47715a961ef7406128"
 }
