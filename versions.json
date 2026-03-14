@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/kuhfzebratait4vhloaxk/osint_parser.exe?rlkey=zw1b69w8547927ihowq7u8aya&st=eu2otdbt&dl=1",
-      "changelog": "T-Mobile eSIM — исправлены клики через nodriver"
+      "url": "https://www.dropbox.com/scl/fi/6flypdfzmeh8ge7ngul1b/osint_parser.exe?rlkey=ydtl09huplb6vqxl5bq4hae0d&st=4hnb4ov5&dl=1",
+      "changelog": "T-Mobile eSIM — обработка попапов и IMEI"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправлена ошибка запуска"
     }
   },
-  "sig": "a82531b4b5ccbc2aef49061ad0e96a7c0dc0549209d082f1da32e78409ad537a"
+  "sig": "41d1a70c72c54fe231fd79746e106531155738e066d125107997b0698bb003d0"
 }
