@@ -1,8 +1,8 @@
 {
   "launcher": {
-    "version": "1.0.9",
-    "url": "https://www.dropbox.com/scl/fi/m5busoa0s5ks2b3twmuoj/FBISoft.exe?rlkey=02p6eewgjzmy6tsyhmp27f392&st=5y1wxz40&dl=1",
-    "changelog": "Исправлена кнопка обновления, удаление integrity файла"
+    "version": "1.1.0",
+    "url": "https://www.dropbox.com/scl/fi/bh3y84aybutvyksdcmpy4/FBISoft.exe?rlkey=094v8j3d1x9x4ieww5i4r3vs3&st=jo3hzw9m&dl=1",
+    "changelog": "Добавлена покупка подписки через крипто (XaiGate), автополучение ключа"
   },
   "scripts": {
     "parser": {
@@ -24,5 +24,5 @@
       "changelog": "Исправлена ошибка запуска"
     }
   },
-  "sig": "396e01ba8884932e24d5375dc068be40ca63df872c279fb26b5596501cf981a5"
+  "sig": "dbea2bbd775fc548e41e32462e7ed4f4d4a679567d9f5bf6784a827f9c328571"
 }
