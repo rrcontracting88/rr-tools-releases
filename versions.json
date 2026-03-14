@@ -16,7 +16,7 @@
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
-      "description": "Автоматизация действий на iPhone через USB.",
+      "description": "Автоматизация действий.",
       "version": "1.0",
       "status": "stable",
       "module": "Auto_Motion",
