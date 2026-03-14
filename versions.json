@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/ujodvwvg9ayldgl9gpcc5/osint_parser.exe?rlkey=1rxa5fbe4zb2b8xmsizr411rv&st=l1ymeb60&dl=1",
-      "changelog": "T-Mobile eSIM + TPS/WP, исправлена проксификация ASocks"
+      "url": "https://www.dropbox.com/scl/fi/kuhfzebratait4vhloaxk/osint_parser.exe?rlkey=zw1b69w8547927ihowq7u8aya&st=eu2otdbt&dl=1",
+      "changelog": "T-Mobile eSIM — исправлены клики через nodriver"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправлена ошибка запуска"
     }
   },
-  "sig": "aad9d7b19941601ccb133ff4440148e0914e035c07e17b20eea784daccb45532"
+  "sig": "a82531b4b5ccbc2aef49061ad0e96a7c0dc0549209d082f1da32e78409ad537a"
 }
