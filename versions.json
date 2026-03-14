@@ -1,8 +1,8 @@
 {
   "launcher": {
-    "version": "1.0.8",
-    "url": "https://www.dropbox.com/scl/fi/ckapaj1m9mno4a3h9ywxy/FBISoft.exe?rlkey=pb2he18jrzsy77cplqrmhgqvl&st=gkvb81vj&dl=1",
-    "changelog": "Обновление не показывается пока скрипт не скачан"
+    "version": "1.0.9",
+    "url": "https://www.dropbox.com/scl/fi/m5busoa0s5ks2b3twmuoj/FBISoft.exe?rlkey=02p6eewgjzmy6tsyhmp27f392&st=5y1wxz40&dl=1",
+    "changelog": "Исправлена кнопка обновления, удаление integrity файла"
   },
   "scripts": {
     "parser": {
@@ -24,5 +24,5 @@
       "changelog": "Исправлена ошибка запуска"
     }
   },
-  "sig": "8b05ace23769e578e1762f96f703a9ffa267d0de85a60bbf0b9e17e697eeac19"
+  "sig": "396e01ba8884932e24d5375dc068be40ca63df872c279fb26b5596501cf981a5"
 }
