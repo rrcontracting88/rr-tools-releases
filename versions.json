@@ -1,18 +1,18 @@
 {
   "launcher": {
     "version": "1.1.1",
-    "url": "https://www.dropbox.com/scl/fi/vgrbnxfr6rsfgvan33ssg/FBISoft.exe?rlkey=l978jf7ar7m8zmimj1cdepio9&st=yey5yske&dl=1",
+    "url": "https://www.dropbox.com/scl/fi/7djt1iyljm0bhlch1isyf/FBISoft.exe?rlkey=rikvvkcg272kx8w8qibrdptvl&st=vzaxk16p&dl=1",
     "changelog": "Исправлено авто-обновление (ошибка Python DLL)"
   },
   "scripts": {
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/fujg521cbzhsdij327375/osint_parser.exe?rlkey=u8wdu0rpsl3zhc1djctzj813u&st=88zrd11t&dl=1",
-      "changelog": "Добавлена подсказка по использованию Proxifier"
+      "url": "https://www.dropbox.com/scl/fi/ztrq2sihulkzwp1f3xkwk/osint_parser.exe?rlkey=czei64ktxmdzeqxlid16s6sgm&st=gntzpenc&dl=1",
+      "changelog": "Встроенная проксификация через ASocks, новый пункт меню"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправлена ошибка запуска"
     }
   },
-  "sig": "67e7b501b25bc085ac4288e6068a0eb5d0c2ce80f7a01fb4b2cc3f060af019c4"
+  "sig": "1ed9fc3d9de79594aeaa8e425e4035509e72be36223fd4773bf53f9445381143"
 }
