@@ -1,8 +1,8 @@
 {
   "launcher": {
-    "version": "1.1",
-    "url": "https://www.dropbox.com/scl/fi/vihdfeiq7inxy04ek7jn5/FBISoft.exe?rlkey=dagid4gryb3wii04ypmet3amy&st=xj5uxnva&dl=1",
-    "changelog": "Улучшена защита, добавлен личный кабинет, новости"
+    "version": "1.2",
+    "url": "https://www.dropbox.com/scl/fi/65ahftie1h0xx810etnwb/FBISoft.exe?rlkey=ystser2vo3yv3c9jhujng25x1&st=d12gzqpt&dl=1",
+    "changelog": "Исправлен двойной баннер, увеличена задержка при обновлении"
   },
   "scripts": {
     "parser": {
