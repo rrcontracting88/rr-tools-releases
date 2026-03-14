@@ -1,7 +1,7 @@
 {
   "launcher": {
     "version": "1.1.1",
-    "url": "https://www.dropbox.com/scl/fi/vgrbnxfr6rsfgvan33ssg/FBISoft.exe?rlkey=l978jf7ar7m8zmimj1cdepio9&st=8xyk99j4&dl=1",
+    "url": "https://www.dropbox.com/scl/fi/vgrbnxfr6rsfgvan33ssg/FBISoft.exe?rlkey=l978jf7ar7m8zmimj1cdepio9&st=kqumimzv&dl=1",
     "changelog": "Исправлено авто-обновление (ошибка Python DLL)"
   },
   "scripts": {
@@ -11,7 +11,7 @@
       "version": "1.0.3",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/ztrq2sihulkzwp1f3xkwk/osint_parser.exe?rlkey=czei64ktxmdzeqxlid16s6sgm&st=gntzpenc&dl=1",
+      "url": "https://www.dropbox.com/scl/fi/23yus883yr3jyogyu4uhz/osint_parser.exe?rlkey=x4d0rqi0bwa31x8xtc59c73zg&st=np9h2oit&dl=1",
       "changelog": "Встроенная проксификация через ASocks, новый пункт меню"
     },
     "auto_motion": {
@@ -24,5 +24,5 @@
       "changelog": "Исправлена ошибка запуска"
     }
   },
-  "sig": "eb39f44d4a50af4f7897cee6713cdf5bdfb7ab1990011fb62bece5ce8dd8d2a5"
+  "sig": "32cbd73f8090165c1d761d7ba5405dbb29947ca004ca84a64ffe179f3596ea70"
 }
