@@ -1,8 +1,8 @@
 {
   "launcher": {
-    "version": "1.4",
-    "url": "https://www.dropbox.com/scl/fi/xgf06otpay3yqu2yych1t/FBISoft.exe?rlkey=v7b8nub283sn94y2a686uiplj&st=8nhz15tg&dl=1",
-    "changelog": "Динамическая загрузка скриптов, проверка подписи"
+    "version": "1.5",
+    "url": "https://www.dropbox.com/scl/fi/s82561vwsc8o23d64b78n/FBISoft.exe?rlkey=qd42qiz5svsn15licoxwqw712&st=ajx8hnrd&dl=1",
+    "changelog": "Исправлена ошибка при автообновлении"
   },
   "scripts": {
     "parser": {
@@ -24,5 +24,5 @@
       "changelog": "Первый релиз"
     }
   },
-  "sig": "a14be71e9ff611f64c166f17eab8c4d12257550434135f517f8cebb218168a10"
+  "sig": "1d0438d4e5a6e4145e127b7f2fbfc0c0e90ae2a1774a8f5786008cf259164d7b"
 }
