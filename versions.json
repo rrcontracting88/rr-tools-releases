@@ -1,7 +1,7 @@
 {
   "launcher": {
     "version": "1.1.1",
-    "url": "https://www.dropbox.com/scl/fi/vgrbnxfr6rsfgvan33ssg/FBISoft.exe?rlkey=l978jf7ar7m8zmimj1cdepio9&st=kqumimzv&dl=1",
+    "url": "https://www.dropbox.com/scl/fi/vgrbnxfr6rsfgvan33ssg/FBISoft.exe?rlkey=l978jf7ar7m8zmimj1cdepio9&st=fxjdjv0q&dl=1",
     "changelog": "Исправлено авто-обновление (ошибка Python DLL)"
   },
   "scripts": {
@@ -24,5 +24,5 @@
       "changelog": "Исправлена ошибка запуска"
     }
   },
-  "sig": "5d20615543a8ddfce9d6cb07c339f209493d4f541e31f28bde296d3872f448bc"
+  "sig": "35d7d771002bd3dd248e93e8c41c367164b31e501308bac2afb653824b8a561a"
 }
