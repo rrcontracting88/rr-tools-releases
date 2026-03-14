@@ -1,13 +1,13 @@
 {
   "launcher": {
     "version": "1.0",
-    "url": "https://github.com/rrcontracting88/rr-tools-releases/releases/latest/download/RRTools.exe",
+    "url": "",
     "changelog": "Initial release"
   },
   "scripts": {
-    "gotsms": {
+    "parser": {
       "version": "1.0",
-      "url": "https://github.com/rrcontracting88/rr-tools-releases/releases/latest/download/GotSMS.exe",
+      "url": "https://www.dropbox.com/scl/fi/hz11k3abf5z92j7pu5vwd/osint_parser.exe?rlkey=axvm5sisur8r1c318y9ihra2i&st=38tlqlaq&dl=1",
       "changelog": "Initial release"
     }
   }
