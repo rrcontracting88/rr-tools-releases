@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.1",
+      "version": "1.0.2",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/yqitwqnpvo65itiue3yir/osint_parser.exe?rlkey=3rmcoqpa6to0zof6vpeqi3jlk&st=molnglzq&dl=1",
-      "changelog": "Добавлен индикатор загрузки"
+      "url": "https://www.dropbox.com/scl/fi/fujg521cbzhsdij327375/osint_parser.exe?rlkey=u8wdu0rpsl3zhc1djctzj813u&st=88zrd11t&dl=1",
+      "changelog": "Добавлена подсказка по использованию Proxifier"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -21,8 +21,8 @@
       "status": "stable",
       "module": "Auto_Motion",
       "url": "https://www.dropbox.com/scl/fi/336jx8nknhzq0dgzlq6m8/Auto_Motion.exe?rlkey=ybqbedbdhrhh2jo7u3813ij5t&st=oiakdrn1&dl=1",
-      "changelog": "Исправлена ошибка запуска — добавлены ресурсы pymobiledevice3"
+      "changelog": "Исправлена ошибка запуска"
     }
   },
-  "sig": "400a4ed6c2bee404ad639293e44e2a29a86b994401814e93352d38af71d9f1df"
+  "sig": "29a72fa9c041096b6bd4d939afdbe89f8d8fe07aa56e6709d08ddbba84e5633f"
 }
