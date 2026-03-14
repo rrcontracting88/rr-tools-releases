@@ -6,9 +6,9 @@
   },
   "scripts": {
     "parser": {
-      "version": "1.0",
-      "url": "https://www.dropbox.com/scl/fi/hz11k3abf5z92j7pu5vwd/osint_parser.exe?rlkey=axvm5sisur8r1c318y9ihra2i&st=38tlqlaq&dl=1",
-      "changelog": "Initial release"
+      "version": "1.1",
+      "url": "https://www.dropbox.com/scl/fi/yqitwqnpvo65itiue3yir/osint_parser.exe?rlkey=3rmcoqpa6to0zof6vpeqi3jlk&st=molnglzq&dl=1",
+      "changelog": "Добавлен индикатор загрузки"
     }
   }
 }
