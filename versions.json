@@ -1,8 +1,8 @@
 {
   "launcher": {
-    "version": "1.1.1",
-    "url": "https://www.dropbox.com/scl/fi/vgrbnxfr6rsfgvan33ssg/FBISoft.exe?rlkey=l978jf7ar7m8zmimj1cdepio9&st=fxjdjv0q&dl=1",
-    "changelog": "Исправлено авто-обновление (ошибка Python DLL)"
+    "version": "1.2.0",
+    "url": "https://www.dropbox.com/scl/fi/bol09pzkmrd4wpv8l6anz/FBISoft.exe?rlkey=8ga8xv15iy879d4l2k9wnvry7&st=hsziyp9z&dl=1",
+    "changelog": "Новые цены + никнейм при покупке ключа"
   },
   "scripts": {
     "parser": {
@@ -24,5 +24,5 @@
       "changelog": "Исправлена ошибка запуска"
     }
   },
-  "sig": "6ed5314180aeb3321c0aa960e1cb8f861a5cd76f168dc8014d5071f6e6398cfd"
+  "sig": "f940de7e4806d5cda021685886e62f65750b2ef6dce6486d356a0b51ecee9bdc"
 }
