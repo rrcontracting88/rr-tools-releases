@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.0.7",
+      "version": "1.0.8",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/urzcdhn60r23l3hjsgm8v/osint_parser.exe?rlkey=at9upzovhmxlbrr3fl9iz1qck&st=7aaywgxc&dl=1",
-      "changelog": "T-Mobile eSIM — фикс BYOD кнопки и rate limit ASocks"
+      "url": "https://www.dropbox.com/scl/fi/lmgeujpdjucn33z3wpd3i/osint_parser.exe?rlkey=xwohs1646882xnxjkgxe5dhx8&st=78be1s2v&dl=1",
+      "changelog": "T-Mobile eSIM — точные CSS селекторы из HTML"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправлена ошибка запуска"
     }
   },
-  "sig": "617588b1dac9199c318d7e257ae488d2eea19acbaca67e00deb3735975567d79"
+  "sig": "0f3afb1940b37e9700dd28d27a0ce0ab22b5246ea5b25fef89e110ca31f952d5"
 }
