@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.2.8",
+      "version": "1.2.9",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/js9sdtvhonxxj9wjrxkpg/osint_parser.exe?rlkey=xxfmqe6fvzlecxmr98njrel4x&st=doy2lkvf&dl=1",
-      "changelog": "T-Mobile eSIM — прямой fetch номера на Payment page"
+      "url": "https://www.dropbox.com/scl/fi/a99pu7jtxq3ughmby6qfz/osint_parser.exe?rlkey=gj2huwxf8y2wo1qq7mav2g31a&st=ywcrf1q5&dl=1",
+      "changelog": "T-Mobile eSIM — последовательные потоки + fetch номера"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправлена ошибка запуска"
     }
   },
-  "sig": "7c8d1e64b28a2fa0ac54ccd33af032d19c6be4f653f457e62e6ea57992a50012"
+  "sig": "354633b69b7fe5f1adb90fd4e9b9dd32c2e72feaac09473710761dfdd36b0195"
 }
