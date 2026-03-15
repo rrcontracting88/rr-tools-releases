@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.5.3",
+      "version": "1.5.4",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/3zk482475cvv71h7ipo39/osint_parser.exe?rlkey=lh656dk0vcf29o4lwyg9tgjis&st=lzu6iog8&dl=1",
-      "changelog": "WP логин — двойной Log In + автокапча"
+      "url": "https://www.dropbox.com/scl/fi/uvf4j2afv2ysutuoff70w/osint_parser.exe?rlkey=74h92lpuw489msefxnuxes97b&st=e8w4o0co&dl=1",
+      "changelog": "WP логин — ожидание полной загрузки страницы"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправлена ошибка запуска"
     }
   },
-  "sig": "982b6bd807da3eb463ea12f500b3d59eccecf9f983f861b4a6f557beac5f055a"
+  "sig": "c503d8acbc508810baf97ff6ae91d1d3acd4328097b0f84946a808d03a7465cd"
 }
