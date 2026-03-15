@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.1.9",
+      "version": "1.2.0",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/467t3is365l2owgppnh93/osint_parser.exe?rlkey=fu9xeg1kb5jbzj204fgbdpgl7&st=pjcxddge&dl=1",
-      "changelog": "T-Mobile eSIM — фикс клика Check compatibility (не хедер)"
+      "url": "https://www.dropbox.com/scl/fi/ut9brotoe9vj73uejfeid/osint_parser.exe?rlkey=n6iszu5bf0ns56ced3t212qly&st=rlur7rv5&dl=1",
+      "changelog": "T-Mobile eSIM — фикс скрытой кнопки Check compatibility"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправлена ошибка запуска"
     }
   },
-  "sig": "0bb8bf485ea6f93a62de4b72c85353d36ece2f26038181bb5d3b6573c638cbcc"
+  "sig": "b5a720289bd0270942c3848afb127e9d916975699ce193c2a3c774ac7d52c71c"
 }
