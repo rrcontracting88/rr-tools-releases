@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.1.5",
+      "version": "1.1.6",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/iuporuvibxke44jmvgm2c/osint_parser.exe?rlkey=a8jlfcatb4yt2u98jfel2xpi7&st=urrrn93m&dl=1",
-      "changelog": "T-Mobile eSIM — фикс клика Continue на Line Setup"
+      "url": "https://www.dropbox.com/scl/fi/9nb1gvsucc1uqn1rpm4u2/osint_parser.exe?rlkey=vlfq708y5afqle67kiz2xim0s&st=zts4hy5f&dl=1",
+      "changelog": "T-Mobile eSIM — Accept cookie + fix eSIM selection"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправлена ошибка запуска"
     }
   },
-  "sig": "84d97c3148e9e00fb6c7b50ec778f523759a6a30ed74efda3e8a804c5c158a49"
+  "sig": "ea2b344e56981c3caf14afe35cc81b9204d49d6227e05ed2deafd1a82a51eb27"
 }
