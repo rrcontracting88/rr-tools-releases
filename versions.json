@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.3.7",
+      "version": "1.3.8",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/zhdp1d6molxy4blq6xjqd/osint_parser.exe?rlkey=ktwizoihtv57pdoz3uu4p8s02&st=81jujakv&dl=1",
-      "changelog": "Фикс global в check_config для авто-создания порта"
+      "url": "https://www.dropbox.com/scl/fi/i1qjp6yafbx4amar8b3f7/osint_parser.exe?rlkey=o8s6jhmf0q218ftgn8aqf9xp6&st=n2ozlj65&dl=1",
+      "changelog": "Проверка валидности прокси при запуске"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправлена ошибка запуска"
     }
   },
-  "sig": "9629b296483e1bad89bde852affa4462755d8dc0d7541becb8cf0ffd237194bc"
+  "sig": "e88917ff81ed1b7afba03fa2fd9538d3a9e297d9ec0a6f0eb0f7c0469d6d15df"
 }
