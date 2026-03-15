@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/ojdxf7zwwwdj4kkyu2vy8/osint_parser.exe?rlkey=758r2e4k1gkrr35a8akul8iqs&st=x5r2wbvh&dl=1",
-      "changelog": "T-Mobile eSIM — параллельные потоки (1-5 браузеров)"
+      "url": "https://www.dropbox.com/scl/fi/n2ca274d958aw00059imp/osint_parser.exe?rlkey=qyytgs4v1h97dbhsmhdfcvyv7&st=2h8yyxob&dl=1",
+      "changelog": "T-Mobile eSIM — отдельный прокси для каждого потока"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправлена ошибка запуска"
     }
   },
-  "sig": "720ba8fef7f6f29c0ba8ea04dbad67ad6c5e3b396fa41612b5a3bfd1ef19972c"
+  "sig": "94a685d462b6e8e1bcc43004a568734a59280757fa7f3490321f6d397863736f"
 }
