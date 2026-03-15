@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.5.2",
+      "version": "1.5.3",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/amabg3is89po2a37w6bhx/osint_parser.exe?rlkey=u8jnwksyxjxa9d46wehndz6hp&st=t8us9r39&dl=1",
-      "changelog": "Полный автологин Whitepages с автокапчей"
+      "url": "https://www.dropbox.com/scl/fi/3zk482475cvv71h7ipo39/osint_parser.exe?rlkey=lh656dk0vcf29o4lwyg9tgjis&st=lzu6iog8&dl=1",
+      "changelog": "WP логин — двойной Log In + автокапча"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправлена ошибка запуска"
     }
   },
-  "sig": "5ca778b45d5188509ecccb771b86847ac6f32ea17465d86f0c6c643632a93543"
+  "sig": "982b6bd807da3eb463ea12f500b3d59eccecf9f983f861b4a6f557beac5f055a"
 }
