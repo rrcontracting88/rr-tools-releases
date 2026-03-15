@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.0.9",
+      "version": "1.1.0",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/hnop91axtt6jn5o3qrq1m/osint_parser.exe?rlkey=ans4lobczo1gasvo305pkew90&st=t6qb2mqg&dl=1",
-      "changelog": "T-Mobile eSIM — фикс ожидания формы Account Setup"
+      "url": "https://www.dropbox.com/scl/fi/8tefrkhliw877p164kqb9/osint_parser.exe?rlkey=6cgg3klm1eie7t6nyq0jpp8v8&st=4dhpdh2a&dl=1",
+      "changelog": "T-Mobile eSIM — фикс formcontrolname для Angular"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправлена ошибка запуска"
     }
   },
-  "sig": "e40f760e395bc887a75a0435aea48cb56bf7353fe15ae08e34d51160d8dda7c1"
+  "sig": "a3e242eaddc5eb8ca4bc8c5d7210a677083162c38705fb5d6fb99111d8cb2898"
 }
