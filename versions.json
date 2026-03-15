@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.5.8",
+      "version": "1.5.9",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/1hx5u3tx5papw2yuqgj42/osint_parser.exe?rlkey=66o11qh5pujqvsq3uqkup62w3&st=8j7el9rm&dl=1",
-      "changelog": "Проверка списка номеров + фикс перехватчика T-Mobile"
+      "url": "https://www.dropbox.com/scl/fi/ufcoazw48eh5exazf5qdo/osint_parser.exe?rlkey=x6zqiuxjps16awqduyqpkuzej&st=q2dxybdc&dl=1",
+      "changelog": "Проверка списка номеров + максимальная защита кода"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправлена ошибка запуска"
     }
   },
-  "sig": "bc9f3138e15e5a284c614753b56e0f6a3914dc468fc8d6c4539ef6676bc60bc8"
+  "sig": "9de7e03d94bcd5585b4ccf7fa9fa4846702a5e39abc723635a3ceae5846508df"
 }
