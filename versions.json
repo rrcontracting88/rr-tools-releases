@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.1.2",
+      "version": "1.1.3",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/839iocuonnylf9v2vykvb/osint_parser.exe?rlkey=0xve72rek4rdv95gaasqbafj5&st=2i4344a1&dl=1",
-      "changelog": "T-Mobile eSIM — клик Assign me a new number"
+      "url": "https://www.dropbox.com/scl/fi/j0l8qktdm7vfzjyp0ixe6/osint_parser.exe?rlkey=78x9322tlmac1r3o59iv1gd5i&st=jrnqltob&dl=1",
+      "changelog": "T-Mobile eSIM — авто-клик Continue для капчи"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправлена ошибка запуска"
     }
   },
-  "sig": "702a26ab52d8aa32a8a4bcf7a611d55c2b7b2ecd43c0a9d6ec0864118e203273"
+  "sig": "ac6003c6e9bb4cc24d79d3322c86f7e9c5b96cebbe94e18cb64ea04e635f91e8"
 }
