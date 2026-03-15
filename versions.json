@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.3.3",
+      "version": "1.3.4",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/9p198e7mibj4jbropnawe/osint_parser.exe?rlkey=xh1t7ditknav5p625x33i2vob&st=r5me4mhs&dl=1",
-      "changelog": "T-Mobile eSIM — фикс зависания на TPS капче"
+      "url": "https://www.dropbox.com/scl/fi/7ll9g32ncn2h6rnwqzlxe/osint_parser.exe?rlkey=761vxkt9hlhct9lif71is2kf9&st=li85kg2k&dl=1",
+      "changelog": "T-Mobile eSIM — убран pre-created TPS браузер, фикс зависания"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправлена ошибка запуска"
     }
   },
-  "sig": "660c3da9a2624ad27a74b5569312e9e1ee303c2cfb645a243049ddbff93a7ebb"
+  "sig": "38ffced939cdf5b598a6ee926ebdca1d96f9f8225b18780465b0e1d5d49de716"
 }
