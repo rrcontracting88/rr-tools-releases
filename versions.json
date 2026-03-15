@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/jhu1k973oyj97555xw3xs/osint_parser.exe?rlkey=d73o3hpqukhnq4rtgg1fvoty8&st=3ucz5acq&dl=1",
-      "changelog": "T-Mobile eSIM — все кнопки через visible button pattern"
+      "url": "https://www.dropbox.com/scl/fi/ojdxf7zwwwdj4kkyu2vy8/osint_parser.exe?rlkey=758r2e4k1gkrr35a8akul8iqs&st=x5r2wbvh&dl=1",
+      "changelog": "T-Mobile eSIM — параллельные потоки (1-5 браузеров)"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправлена ошибка запуска"
     }
   },
-  "sig": "f3a256b1553aff9c5ad9116b1512d391ef5aa630b9f68718e154c0da16234977"
+  "sig": "720ba8fef7f6f29c0ba8ea04dbad67ad6c5e3b396fa41612b5a3bfd1ef19972c"
 }
