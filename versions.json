@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.4.2",
+      "version": "1.4.3",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/2odzneytt3wlq6tm5sq7h/osint_parser.exe?rlkey=1tptu56pgtgz2i83y2uwp5nnd&st=34ps6mmn&dl=1",
-      "changelog": "T-Mobile eSIM — ZIP +1 на каждую попытку"
+      "url": "https://www.dropbox.com/scl/fi/xwutv1ddl1zom5y5yhit6/osint_parser.exe?rlkey=xh1xg3t5q22g5a40z4ntruqqv&st=ordxic3b&dl=1",
+      "changelog": "T-Mobile eSIM — авто ZIP по State+City через API"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправлена ошибка запуска"
     }
   },
-  "sig": "eef8934eca02e22565aad60e2ffc20a8cdc6bc6ac177faa34abfcb244423e2a7"
+  "sig": "6fcb09015e41231a4827571108ce02321f0642000eb8582b454e64aeaa97ba88"
 }
