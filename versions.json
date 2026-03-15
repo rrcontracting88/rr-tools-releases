@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.5.5",
+      "version": "1.5.6",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/jcbo4artx1pbqjof2ys2f/osint_parser.exe?rlkey=3uysmg0gnakgz2o4mzu95ck3f&st=rvgbhyhi&dl=1",
-      "changelog": "TPS автокапча — ретраи + Turnstile детекция"
+      "url": "https://www.dropbox.com/scl/fi/8wkwgtsdrd9paqiv8msxw/osint_parser.exe?rlkey=cysq5nozy1w085r4qo8wl52ed&st=unvv1b5j&dl=1",
+      "changelog": "ZIP через запятую + улучшен reCAPTCHA callback"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправлена ошибка запуска"
     }
   },
-  "sig": "a2c0a9abfa45e67ebeeb91933eb1c218d02c63caba415a419dfaf61f1280af8d"
+  "sig": "dd63e4c9a9e322f3244b54d9ee620479570f5c852d4fec5b714c2467948a24cb"
 }
