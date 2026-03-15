@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.3.0",
+      "version": "1.3.1",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/oyxg2u2ttfyfh1c6syzpw/osint_parser.exe?rlkey=vevc0h8ehj83kli7bce5na1wl&st=mvqek17n&dl=1",
-      "changelog": "T-Mobile eSIM — надёжный ввод IMEI + последовательные потоки"
+      "url": "https://www.dropbox.com/scl/fi/4f3pw7javsov65okfibo7/osint_parser.exe?rlkey=vs1c3vwvcubrtuogk0xej8awq&st=de6fpi8g&dl=1",
+      "changelog": "T-Mobile eSIM — пропуск повторного WP логина"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправлена ошибка запуска"
     }
   },
-  "sig": "d90793110c88d6ee04d63eb06a72125a8bf2646d46c7ce9180a388a5b7f9577e"
+  "sig": "5b6f582923ecca8f082425162729f1689902ca99e39b593c82fe4d424afa5298"
 }
