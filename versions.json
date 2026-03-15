@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.5.1",
+      "version": "1.5.2",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/94wencir51maxzapxzekp/osint_parser.exe?rlkey=0zey46aimmguujcls5arohnbw&st=acug0tfn&dl=1",
-      "changelog": "Фикс автокапчи — Turnstile для TPS, reCAPTCHA для T-Mobile"
+      "url": "https://www.dropbox.com/scl/fi/amabg3is89po2a37w6bhx/osint_parser.exe?rlkey=u8jnwksyxjxa9d46wehndz6hp&st=t8us9r39&dl=1",
+      "changelog": "Полный автологин Whitepages с автокапчей"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправлена ошибка запуска"
     }
   },
-  "sig": "e87f8784a3a735b4a82a1750397ac60de21b467aad5be11156e54301b5ead39e"
+  "sig": "5ca778b45d5188509ecccb771b86847ac6f32ea17465d86f0c6c643632a93543"
 }
