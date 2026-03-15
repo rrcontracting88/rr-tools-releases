@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.2.5",
+      "version": "1.2.6",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/4ppn7t2hi66mzv21di5q7/osint_parser.exe?rlkey=55b0oe6lh7etp2ye9khdxdhwm&st=4gjwcnb9&dl=1",
-      "changelog": "T-Mobile eSIM — фикс создания ASocks портов"
+      "url": "https://www.dropbox.com/scl/fi/qhzyp9nwnzkc95yobvlya/osint_parser.exe?rlkey=7friyw13binlfw76yltiepecu&st=lxb4yep1&dl=1",
+      "changelog": "T-Mobile eSIM — фикс ASocks port-info query param"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправлена ошибка запуска"
     }
   },
-  "sig": "1a35f7da25a4f31c0d151f54fec311c4aa2c0178f6a40ccab34c2d747683be93"
+  "sig": "52fbe0533985c195d6a391bc5fa66202395880efbe834a3f641ad0aa8258f96c"
 }
