@@ -2,8 +2,8 @@
   "news": [
     {
       "date": "2026-03-16",
-      "title": "📱 Osint Parser v1.5.9",
-      "text": "Добавлен T-Mobile и улучшена автоматизация.",
+      "title": "📱 Osint Parser v1.6.2",
+      "text": "Улучшена работа на медленных прокси.",
       "type": "update"
     },
         {
