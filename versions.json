@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.5.9",
+      "version": "1.6.0",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/ufcoazw48eh5exazf5qdo/osint_parser.exe?rlkey=x6zqiuxjps16awqduyqpkuzej&st=q2dxybdc&dl=1",
-      "changelog": "Проверка списка номеров + максимальная защита кода"
+      "url": "https://www.dropbox.com/scl/fi/wagh2ec37kpqqodudqn9u/osint_parser.exe?rlkey=pv1ir5qlpnq9k9oi3zwtf6p9j&st=d9mtd38k&dl=1",
+      "changelog": "Исправление авторизации, исправление функции TPS"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправлена ошибка запуска"
     }
   },
-  "sig": "9de7e03d94bcd5585b4ccf7fa9fa4846702a5e39abc723635a3ceae5846508df"
+  "sig": "cf565111aa0187d25e2e3f60d4880ddf6d4286c9fabf0266df7c4619ab451ad5"
 }
