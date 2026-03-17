@@ -1,7 +1,7 @@
 {
   "launcher": {
     "version": "1.2.1",
-    "url": "https://www.dropbox.com/scl/fi/sjmp4aaujjm3qulesmag3/FBISoft.exe?rlkey=aihbadhool5zwvaaxvwlo5mlv&st=1qtdh4ij&dl=1",
+    "url": "https://www.dropbox.com/scl/fi/l52853ug5my7dj2lg942n/FBISoft.exe?rlkey=x8tfn0hgzmw23egylg9ejned6&st=tdumnad7&dl=1",
     "changelog": "Новые цены, исправления стабильности"
   },
   "scripts": {
@@ -24,5 +24,5 @@
       "changelog": "Исправлена ошибка запуска"
     }
   },
-  "sig": "4a60ca7650a1d847fd593d4f21f131d9245b9c7532b7ff79dd35fa880a6cd72f"
+  "sig": "7e5742ca47afaebd35bb62847dd3eb5676f71d3d39710194086b432a24403fff"
 }
