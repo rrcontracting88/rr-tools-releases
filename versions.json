@@ -17,12 +17,12 @@
     "auto_motion": {
       "name": "🤖 Auto Motion",
       "description": "Автоматизация действий.",
-      "version": "1.0.1",
+      "version": "1.1.0",
       "status": "stable",
       "module": "Auto_Motion",
-      "url": "https://www.dropbox.com/scl/fi/336jx8nknhzq0dgzlq6m8/Auto_Motion.exe?rlkey=ybqbedbdhrhh2jo7u3813ij5t&st=oiakdrn1&dl=1",
-      "changelog": "Исправлена ошибка запуска"
+      "url": "https://www.dropbox.com/scl/fi/x4o07zf92kd76wyjujegz/Auto_Motion.exe?rlkey=lt7q3vez1f5ve5eon9buab6d0&st=8sckn2n1&dl=1",
+      "changelog": "Свой алгоритм — запись и воспроизведение действий в Safari"
     }
   },
-  "sig": "9f36f7632cdf629367e88e2d0271756b1216610bdc47ae85eee66a25b7b94f7b"
+  "sig": "01a47d66c33943432bebe5f997780a4081a82e10d65276d0d02d491e1270f57f"
 }
