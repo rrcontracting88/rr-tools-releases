@@ -11,7 +11,7 @@
       "version": "1.6.4",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/6ceq2w4f44o9tqh8l4ex5/osint_parser.exe?rlkey=3z0sgudm0yo6nlpnmjtc2yo1g&st=3wh0mw2p&dl=1",
+      "url": "https://www.dropbox.com/scl/fi/42maw45oqwydff7e0z069/osint_parser.exe?rlkey=kl0g0y8q1u6smpvslx7yhiv4d&st=j0lmfao7&dl=1",
       "changelog": "Исправление сохранения конфигурации"
     },
     "auto_motion": {
@@ -24,5 +24,5 @@
       "changelog": "Исправлена ошибка запуска"
     }
   },
-  "sig": "9051b480c297bf94b7e4e0063940aa7c1b4e92bba66f9ff2550efaa638602959"
+  "sig": "9f36f7632cdf629367e88e2d0271756b1216610bdc47ae85eee66a25b7b94f7b"
 }
