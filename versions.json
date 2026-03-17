@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.6.3",
+      "version": "1.6.4",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/a3qyrfu9fs8mtiwjmcva9/osint_parser.exe?rlkey=1im7bgvt7d5cf5kjd006wgjtg&st=j7xxrdz6&dl=1",
-      "changelog": "Nuitka-компиляция, исправление авторизации и TPS"
+      "url": "https://www.dropbox.com/scl/fi/6ceq2w4f44o9tqh8l4ex5/osint_parser.exe?rlkey=3z0sgudm0yo6nlpnmjtc2yo1g&st=3wh0mw2p&dl=1",
+      "changelog": "Исправление сохранения конфигурации"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправлена ошибка запуска"
     }
   },
-  "sig": "d910e527513e43f6254dcd332b79d69ac9d0abc6ad02a1b48bb16f3e80be33d8"
+  "sig": "9051b480c297bf94b7e4e0063940aa7c1b4e92bba66f9ff2550efaa638602959"
 }
