@@ -17,12 +17,12 @@
     "auto_motion": {
       "name": "🤖 Auto Motion",
       "description": "Автоматизация действий.",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "status": "stable",
       "module": "Auto_Motion",
-      "url": "https://www.dropbox.com/scl/fi/x4o07zf92kd76wyjujegz/Auto_Motion.exe?rlkey=lt7q3vez1f5ve5eon9buab6d0&st=8sckn2n1&dl=1",
-      "changelog": "Свой алгоритм — запись и воспроизведение действий в Safari"
+      "url": "https://www.dropbox.com/scl/fi/gfv6stk2ry58crx4kl4lg/Auto_Motion.exe?rlkey=v2rpa0gu3ef1r1zftyhpuyste&st=eu876bxt&dl=1",
+      "changelog": "Исправление WebInspector API"
     }
   },
-  "sig": "01a47d66c33943432bebe5f997780a4081a82e10d65276d0d02d491e1270f57f"
+  "sig": "4a2060d881c44493b6d17699828fa266ee8403673f9cc543b34bd16b95bbc584"
 }
