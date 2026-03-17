@@ -1,18 +1,18 @@
 {
   "launcher": {
-    "version": "1.2.0",
-    "url": "https://www.dropbox.com/scl/fi/bol09pzkmrd4wpv8l6anz/FBISoft.exe?rlkey=8ga8xv15iy879d4l2k9wnvry7&st=hsziyp9z&dl=1",
-    "changelog": "Новые цены + никнейм при покупке ключа"
+    "version": "1.2.1",
+    "url": "https://www.dropbox.com/scl/fi/sjmp4aaujjm3qulesmag3/FBISoft.exe?rlkey=aihbadhool5zwvaaxvwlo5mlv&st=1qtdh4ij&dl=1",
+    "changelog": "Новые цены, исправления стабильности"
   },
   "scripts": {
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.6.2",
+      "version": "1.6.3",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/1pi6xpcsnql099ts44zr0/osint_parser.exe?rlkey=q0cupzikgks5d2503wnu2fspp&st=owapeaw2&dl=1",
-      "changelog": "Исправление авторизации, исправление функции TPS"
+      "url": "https://www.dropbox.com/scl/fi/a3qyrfu9fs8mtiwjmcva9/osint_parser.exe?rlkey=1im7bgvt7d5cf5kjd006wgjtg&st=j7xxrdz6&dl=1",
+      "changelog": "Nuitka-компиляция, исправление авторизации и TPS"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправлена ошибка запуска"
     }
   },
-  "sig": "e2df63e5476355fc4ce0613447dbe81764e9455483290db81b48751950e06a68"
+  "sig": "4a60ca7650a1d847fd593d4f21f131d9245b9c7532b7ff79dd35fa880a6cd72f"
 }
