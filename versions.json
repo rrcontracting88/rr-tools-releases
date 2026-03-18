@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.6.4",
+      "version": "1.6.5",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/42maw45oqwydff7e0z069/osint_parser.exe?rlkey=kl0g0y8q1u6smpvslx7yhiv4d&st=j0lmfao7&dl=1",
-      "changelog": "Исправление сохранения конфигурации"
+      "url": "https://www.dropbox.com/scl/fi/k1hdwyr34h5x00yz2be52/osint_parser.exe?rlkey=zflp5oiud7e2nlk3ow68qwju1&dl=1",
+      "changelog": "Улучшена обработка капчи, авторешение и возврат на правильный URL"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправление WebInspector API"
     }
   },
-  "sig": "4a2060d881c44493b6d17699828fa266ee8403673f9cc543b34bd16b95bbc584"
+  "sig": "ddc2488a26c802b74923e37a11a3ceb43620b985c5c0bcfa07f5cdbcd5d1b3c8"
 }
