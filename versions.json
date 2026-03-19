@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.7.1",
+      "version": "1.7.2",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/95cnp8y6zwyne3bz4ffz6/osint_parser.exe?rlkey=se2xk6p9tnwn3njoux4j8ye3s&dl=1",
-      "changelog": "Калибровка Bank API: Caller ID → Real Contact с полными данными"
+      "url": "https://www.dropbox.com/scl/fi/sjfji3tsbfbusqvgbskhg/osint_parser.exe?rlkey=lvue78zqnli7uft318iummw9e&dl=1",
+      "changelog": "Фикс парсинга Real Contact — корректные ключи API"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправление WebInspector API"
     }
   },
-  "sig": "d62aa5c6f7160bd3c0ab02208220605c329652f4574c7dafe41713711a1ab700"
+  "sig": "b4ca80c5c02a9e4f2d840ee4a7c1ed272ccb3de4d694bdd16e7c407f76f6a9b1"
 }
