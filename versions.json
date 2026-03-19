@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.7.0",
+      "version": "1.7.1",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/hzgr0fqn0lwohhe4ezkmw/osint_parser.exe?rlkey=360luza5lr3vrq26qgxcrsa3k&dl=1",
-      "changelog": "Новая функция: GotSMS + TPS + Bank API"
+      "url": "https://www.dropbox.com/scl/fi/95cnp8y6zwyne3bz4ffz6/osint_parser.exe?rlkey=se2xk6p9tnwn3njoux4j8ye3s&dl=1",
+      "changelog": "Калибровка Bank API: Caller ID → Real Contact с полными данными"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправление WebInspector API"
     }
   },
-  "sig": "5acdcdb3b23bc2b680c151ae24faca867279fe298e887587d6d223afe5a30f27"
+  "sig": "d62aa5c6f7160bd3c0ab02208220605c329652f4574c7dafe41713711a1ab700"
 }
