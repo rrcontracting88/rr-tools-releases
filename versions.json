@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.7.3",
+      "version": "1.7.4",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/9suzoomcnox76tmj4qo7q/osint_parser.exe?rlkey=gogbueu1g6riymdpa2s26zoby&dl=1",
-      "changelog": "TPS + Bank API в проверке номеров, фикс Cloudflare"
+      "url": "https://www.dropbox.com/scl/fi/vvq49cd9pzocu8xbdbaxf/osint_parser.exe?rlkey=8rue0wrcbx6s3gy5joxpej4ad&dl=1",
+      "changelog": "Обновление"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправление WebInspector API"
     }
   },
-  "sig": "6911a8deb52994933c4c42c76d12091efbf0cd581af44fdbb1e24d14a590fb99"
+  "sig": "195c6d146e742e70900c2c8ed5970f70a4b0364e0d7fe49c8c15ab00b00052ad"
 }
