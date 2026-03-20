@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.7.4",
+      "version": "1.7.5",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/vvq49cd9pzocu8xbdbaxf/osint_parser.exe?rlkey=8rue0wrcbx6s3gy5joxpej4ad&dl=1",
-      "changelog": "Обновление"
+      "url": "https://www.dropbox.com/scl/fi/0fop5o9fzylhymeyuy0h2/osint_parser.exe?rlkey=mlukooi0x3k824p7u21pept0u&dl=1",
+      "changelog": "Имя из name, litigator check, улучшения Bank API"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправление WebInspector API"
     }
   },
-  "sig": "195c6d146e742e70900c2c8ed5970f70a4b0364e0d7fe49c8c15ab00b00052ad"
+  "sig": "aed11671d653a2aafd0179fcc3499b19c1a6abe5e2c86d8e4c100983a45adb9d"
 }
