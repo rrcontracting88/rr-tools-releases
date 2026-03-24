@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.7.6",
+      "version": "1.7.7",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/trl3qxwfa49xewh9zcxqf/osint_parser.exe?rlkey=7gkprr3a9ebx6kn89ofivx3o6&dl=1",
-      "changelog": "Ретрай при таймауте Bank API"
+      "url": "https://www.dropbox.com/scl/fi/fgx6fbw32gsu0vnr40q4v/osint_parser.exe?rlkey=xzv49jrlt1b29yzu59syekhnb&dl=1",
+      "changelog": "Ретрай GotSMS при таймауте"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправление WebInspector API"
     }
   },
-  "sig": "dc8e1dff2688d8a07cb170603fbf2537252838991971d43eca6c98902e5e28e9"
+  "sig": "381387233e50a055fb7de01670ce3810ce954e142f52a9f93b4054472a4eb8d5"
 }
