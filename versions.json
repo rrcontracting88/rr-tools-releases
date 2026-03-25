@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.7.7",
+      "version": "1.7.8",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/fgx6fbw32gsu0vnr40q4v/osint_parser.exe?rlkey=xzv49jrlt1b29yzu59syekhnb&dl=1",
-      "changelog": "Ретрай GotSMS при таймауте"
+      "url": "https://www.dropbox.com/scl/fi/a20psy9znt3lx56c9i40u/osint_parser.exe?rlkey=6efufw254u2qi91e8n3tkfq25&dl=1",
+      "changelog": "Интеграция MicroBilt Verification (Phone↔Name, Phone↔Address, Address↔Name)"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправление WebInspector API"
     }
   },
-  "sig": "381387233e50a055fb7de01670ce3810ce954e142f52a9f93b4054472a4eb8d5"
+  "sig": "3b17f79522c5a36a2bf880616f7005eb2a67ac27a57a7beb8dd72fdfeec71f89"
 }
