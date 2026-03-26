@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.8.4",
+      "version": "1.8.5",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/dpidnkdkjzoqny4bcyax9/osint_parser.exe?rlkey=vqw3aiq9t8lzicxwv7i9dcby1&dl=1",
-      "changelog": "MicroBilt только при Phone Grade A"
+      "url": "https://www.dropbox.com/scl/fi/zvouuo0tq1rxoiozn3bdu/osint_parser.exe?rlkey=d8qlcme4bpguxe1w7suuxpedl&dl=1",
+      "changelog": "Авто-возврат номеров с Phone Grade ниже A"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправление WebInspector API"
     }
   },
-  "sig": "71c4db5f073151ce77fe7f55180060b6531c05f4407c92a156b91156d12084d9"
+  "sig": "8fde126d289d455a77e121c524c46e1dbfe8eff6c88bdd5a4500afafba3cddb4"
 }
