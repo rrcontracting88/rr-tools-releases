@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.8.0",
+      "version": "1.8.1",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/3k3skwn3i53cz61zm1elb/osint_parser.exe?rlkey=35fkaqrfqifd8571opb13jesw&dl=1",
-      "changelog": "MicroBilt Email Validation в Bank API флоу, очистка консоли"
+      "url": "https://www.dropbox.com/scl/fi/h4hdjnxii0ognjxiqzji7/osint_parser.exe?rlkey=ocx1kwoxzcoi1ivpc3ewiyp0p&dl=1",
+      "changelog": "MicroBilt только при Phone Grade A"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправление WebInspector API"
     }
   },
-  "sig": "dfa40abfc82536db15936802dd701cccc2dd909c51616f13a227476e6659dfa8"
+  "sig": "09df5d018dbe0d720f0c2bf6821b463b00d892fc2e7d55a07086fc718ea38200"
 }
