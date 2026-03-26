@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.8.6",
+      "version": "1.8.7",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/z0bfp2mkiewmt2notztaw/osint_parser.exe?rlkey=zi7hulx4wjwv6x9scske6ablq&dl=1",
-      "changelog": "Интеграция XILO SSN Lookup в пункт 4"
+      "url": "https://www.dropbox.com/scl/fi/bg9rmhskyhvw65lgr52xk/osint_parser.exe?rlkey=fe12qswwmrjp8no54342u3mfp&dl=1",
+      "changelog": "Пункт 9 → SSN Verification, пункт 10 → Настройка XILO SSN"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправление WebInspector API"
     }
   },
-  "sig": "f7c8279fecb2068c507b264b6f51eecabdcce5d8b5facff0dcb5f727a1cfa247"
+  "sig": "e543c8e27469a0ad2b83740409fc1a13943f56df93a0884901e74c8d4a72a6d8"
 }
