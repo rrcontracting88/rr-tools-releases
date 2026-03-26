@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.8.5",
+      "version": "1.8.6",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/zvouuo0tq1rxoiozn3bdu/osint_parser.exe?rlkey=d8qlcme4bpguxe1w7suuxpedl&dl=1",
-      "changelog": "Авто-возврат номеров с Phone Grade ниже A"
+      "url": "https://www.dropbox.com/scl/fi/z0bfp2mkiewmt2notztaw/osint_parser.exe?rlkey=zi7hulx4wjwv6x9scske6ablq&dl=1",
+      "changelog": "Интеграция XILO SSN Lookup в пункт 4"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправление WebInspector API"
     }
   },
-  "sig": "8fde126d289d455a77e121c524c46e1dbfe8eff6c88bdd5a4500afafba3cddb4"
+  "sig": "f7c8279fecb2068c507b264b6f51eecabdcce5d8b5facff0dcb5f727a1cfa247"
 }
