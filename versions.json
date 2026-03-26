@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.8.3",
+      "version": "1.8.4",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/hdfrf06gvf1ihi507mv1z/osint_parser.exe?rlkey=ezhh7gdvk8u0nyd9ob2jhi6aw&dl=1",
-      "changelog": "Real Contact только при совпадении Caller ID с TPS (включая AKA), MicroBilt при Grade A"
+      "url": "https://www.dropbox.com/scl/fi/dpidnkdkjzoqny4bcyax9/osint_parser.exe?rlkey=vqw3aiq9t8lzicxwv7i9dcby1&dl=1",
+      "changelog": "MicroBilt только при Phone Grade A"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправление WebInspector API"
     }
   },
-  "sig": "0195dd4bcb378066c5d166579c2c02c789d6a77c766e585fa54c166a50dab476"
+  "sig": "71c4db5f073151ce77fe7f55180060b6531c05f4407c92a156b91156d12084d9"
 }
