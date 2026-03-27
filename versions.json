@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "2.0.3",
+      "version": "2.0.4",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/hg9hkflscs6zvrk23rs1d/osint_parser.exe?rlkey=16qqpq2uvd05e2xb857tegdeg&dl=1",
-      "changelog": "Убран JSON, unified server, SSL fix"
+      "url": "https://www.dropbox.com/scl/fi/smgpsznntpsofurxt51ex/osint_parser.exe?rlkey=ceqtzfjlwwpj69mpwd3qrrrwu&dl=1",
+      "changelog": "SSN skip if not configured, no JSON saves"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправление WebInspector API"
     }
   },
-  "sig": "da562aa58e9bbad377135be2e09278596e0225258d0e9a69313f45179dfd601a"
+  "sig": "679fe76bd58323dd43ab78c01d149fe25b6bdaede48dba820921350f4df48d03"
 }
