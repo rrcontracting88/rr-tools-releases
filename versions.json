@@ -11,8 +11,8 @@
       "version": "2.0.5",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/nte6fw4opxicp1rlo2gfn/osint_parser.exe?rlkey=w2lbpdm3f66ga4y8qyik35y3n&dl=1",
-      "changelog": "SSN skip if not configured, no JSON saves"
+      "url": "https://www.dropbox.com/scl/fi/dje1htdzhl2pgvspk22yy/osint_parser.exe?rlkey=x0c1pc98t0s687m1s2ugm8qhv&dl=1",
+      "changelog": "SSL fix for token verification"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправление WebInspector API"
     }
   },
-  "sig": "25df58cfe03780dd3b4dd10f6529235f04cb9e131477b7fa32bf40bf4abde15b"
+  "sig": "9dda1715145374aac88c6bda107d9499c686003100e5b81cd0cc48d0dce6c91f"
 }
