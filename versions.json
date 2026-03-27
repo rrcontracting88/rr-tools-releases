@@ -1,8 +1,8 @@
 {
   "launcher": {
-    "version": "1.2.2",
-    "url": "https://www.dropbox.com/scl/fi/4x90vntjrut0vpyntl5eq/FBISoft.exe?rlkey=v3y7wjax7l7c30zeksdfg3sne&st=nue8wf3n&dl=1",
-    "changelog": "Исправление загрузки новостей и обновлений"
+    "version": "1.2.3",
+    "url": "https://www.dropbox.com/scl/fi/i7kalgbzqpkl8mzk545th/FBISoft.exe?rlkey=5m7izm0aysdvzual08gds4j9q&dl=1",
+    "changelog": "Cloudzy сервер, фикс автообновления, SSL, цены"
   },
   "scripts": {
     "parser": {
@@ -24,5 +24,5 @@
       "changelog": "Исправление WebInspector API"
     }
   },
-  "sig": "679fe76bd58323dd43ab78c01d149fe25b6bdaede48dba820921350f4df48d03"
+  "sig": "495c153f39a073759c255f9e486b4034120fcfaa722d095388fec2de22101500"
 }
