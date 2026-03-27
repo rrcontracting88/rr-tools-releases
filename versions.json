@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "2.0.7",
+      "version": "2.0.8",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/ot1jbbqd4fg14gu27b05k/osint_parser.exe?rlkey=et5x748um4408ftglur6ligrp&dl=1",
-      "changelog": "GotSMS timeout fix, no crash"
+      "url": "https://www.dropbox.com/scl/fi/hvwtwvb9tuwpqnx4wxaao/osint_parser.exe?rlkey=zu2u9frrclnmj78jg9nukjcmj&dl=1",
+      "changelog": "GotSMS increased timeouts 30-45s"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправление WebInspector API"
     }
   },
-  "sig": "50d4928ee624788a51cd377852d9f77e57358993680e03c65d190dcfc42c85d7"
+  "sig": "bb9e59989acff57ba41428c27fc4e6b83ed8ed505160c44512d73fed1ca60529"
 }
