@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "1.9.0",
+      "version": "2.0.0",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/ccvxyrgeuihj8pux8e7sg/osint_parser.exe?rlkey=l65voyo8o5e3iv6aat6llyzt6&dl=1",
-      "changelog": "API ключи захардкожены, убрана настройка Bank API, меню перенумеровано"
+      "url": "https://www.dropbox.com/scl/fi/8nbfjfc5jx6yseav9s6rs/osint_parser.exe?rlkey=mle0jgkno570q5g158vx0bv2a&dl=1",
+      "changelog": "Thin client — вся логика на сервере, API ключей нет в exe"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправление WebInspector API"
     }
   },
-  "sig": "ca59c8d529e10ea1f1c517f7d3b22105725c1021a8a39ab7851fa9b6a75f68e9"
+  "sig": "b69a492f631f0f785833448b38b416309b20598db60ea4e6b7a252c5b0efaa6a"
 }
