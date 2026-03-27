@@ -8,10 +8,10 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "2.0.1",
+      "version": "2.0.2",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/0h2pbm8558i7w3u0ikw77/osint_parser.exe?rlkey=c6x40c761ag3bjudod6ueaoom&dl=1",
+      "url": "https://www.dropbox.com/scl/fi/3f8l7xs8lth7q0uxnhfem/osint_parser.exe?rlkey=j997nmpzbv0nr3qbtkp7vre3p&dl=1",
       "changelog": "Thin client — вся логика на сервере, API ключей нет в exe"
     },
     "auto_motion": {
@@ -24,5 +24,5 @@
       "changelog": "Исправление WebInspector API"
     }
   },
-  "sig": "50ef4703534444edd74dcbefd4fe89eaa148040788aa388246a0766baf4ea397"
+  "sig": "681479c5d4ec46ed3c0ddfa1396fbbd508765726a239e52cb020f0d00c4f6aa2"
 }
