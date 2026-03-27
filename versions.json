@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "2.0.5",
+      "version": "2.0.6",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/dje1htdzhl2pgvspk22yy/osint_parser.exe?rlkey=x0c1pc98t0s687m1s2ugm8qhv&dl=1",
-      "changelog": "SSL fix for token verification"
+      "url": "https://www.dropbox.com/scl/fi/m0vduac3e2qw2a4zzn4xe/osint_parser.exe?rlkey=mcl59ak5sh4grkf1m2y26wdnp&dl=1",
+      "changelog": "Bank API Only mode in check numbers"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправление WebInspector API"
     }
   },
-  "sig": "9dda1715145374aac88c6bda107d9499c686003100e5b81cd0cc48d0dce6c91f"
+  "sig": "8d0ea816615ca89171838d73d598adef8ca26cdcd6ed59af6fdbff8344666fb8"
 }
