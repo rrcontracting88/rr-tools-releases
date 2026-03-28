@@ -1,8 +1,8 @@
 {
   "launcher": {
-    "version": "1.2.3",
-    "url": "https://www.dropbox.com/scl/fi/i7kalgbzqpkl8mzk545th/FBISoft.exe?rlkey=5m7izm0aysdvzual08gds4j9q&dl=1",
-    "changelog": "Cloudzy сервер, фикс автообновления, SSL, цены"
+    "version": "1.2.4",
+    "url": "https://www.dropbox.com/scl/fi/vgqrfbobe6m9c87x2k0v2/FBISoft.exe?rlkey=bd57vye61n6tv736nmx9tmpbw&dl=1",
+    "changelog": "SERVER_SECRET removed, HWID via server, no signatures in exe"
   },
   "scripts": {
     "parser": {
@@ -24,5 +24,5 @@
       "changelog": "Исправление WebInspector API"
     }
   },
-  "sig": "f13c2bfd03f8874670054f1f53ddf1b932d194a14b04f82d8bcdf8c4d88a8ce1"
+  "sig": "ae7610ec1463ecff667b0b5c9bc6dc868a76085d5464258414d0c8c582c33363"
 }
