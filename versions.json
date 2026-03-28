@@ -11,8 +11,8 @@
       "version": "2.1.8",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/sfxmoaqrvmfugw8x5dmkj/osint_parser.exe?rlkey=ct8ollj8zm61kpb1srs4umqd1&dl=1",
-      "changelog": "Console +30%, copy log, clickable rent IDs, browser fix"
+      "url": "https://www.dropbox.com/scl/fi/yarim76cynedurrda2cp3/osint_parser.exe?rlkey=v6yeinm7wb9ijgrry7qzz6ze3&dl=1",
+      "changelog": "GUI: clickable cells, autoscroll console, copy log, no version in title, layout fix"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправление WebInspector API"
     }
   },
-  "sig": "9375c6b5a747471f80d151a3ef794f6158d56b071af2ed4039bbe9e7a66e4603"
+  "sig": "5032fc936e0c9f66a7add61aba88fb90f57cb7dd87d1ae795d5992fb30b2c301"
 }
