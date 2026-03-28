@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "2.1.1",
+      "version": "2.1.2",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/5npirqqtzdlp9bgrsegoo/osint_parser.exe?rlkey=42sp6hca7ni5uvdjnqgpyfpod&dl=1",
-      "changelog": "GotSMS token on server, new Settings menu"
+      "url": "https://www.dropbox.com/scl/fi/b5qobyo854r1xkpe8tcsx/osint_parser.exe?rlkey=gge08rpcptnznbyfs3t3zexp6&dl=1",
+      "changelog": "XILO removed, code cleanup -492 lines, GotSMS on server, no service names in exe"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправление WebInspector API"
     }
   },
-  "sig": "a30ad26bd000320854eef21ffbc94b4d021582552d128f52211b7dcfd4c88467"
+  "sig": "4ccb60fa91a1cf33729a04c415b9a8b2f5264d2c709124b169e949ad6578e376"
 }
