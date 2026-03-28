@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "2.1.6",
+      "version": "2.1.7",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/uxk6w2jx6m7xeudqrchma/osint_parser.exe?rlkey=1mbe9jhu34rtjeb0ci6lnsmye&dl=1",
-      "changelog": "GUI with DearPyGui bundled"
+      "url": "https://www.dropbox.com/scl/fi/7kdrrjtzcaceue6uodoez/osint_parser.exe?rlkey=540ep2v2umr7m17s493t5g702&dl=1",
+      "changelog": "GUI release, DearPyGui bundled, full GotSMS management"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправление WebInspector API"
     }
   },
-  "sig": "64d884bc23d5c1a4d0f154584fc22339971b87c1c9ffc399b973f1a2271c4cb4"
+  "sig": "c02072e659b792f17912842559bba5dacd3989bc9e95b0e4f6b647cca0674f97"
 }
