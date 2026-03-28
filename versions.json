@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "2.2.5",
+      "version": "2.2.6",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/6eikln1n77tia177wq88r/osint_parser.exe?rlkey=bezqu0xmn8va1ziyhu53sxfkb&dl=1",
-      "changelog": "Rate limit detection and retry, age column, Caller ID data in Bank API"
+      "url": "https://www.dropbox.com/scl/fi/od7dprnov24353k6z8uin/osint_parser.exe?rlkey=cix4e5ikhq5vqz8ufs08plra1&dl=1",
+      "changelog": "Smart autoscroll, 2Captcha post-solve wait fix, manual captcha detection fix"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправление WebInspector API"
     }
   },
-  "sig": "bc728767adf98e4e2122e33b39abddc50b262633c5c230f23925d4d86cc0f0bf"
+  "sig": "faddd05b152caebe94519a714b9b9dd77309ddce3368d5a9fb6ec7608804cd3d"
 }
