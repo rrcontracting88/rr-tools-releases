@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "2.3.0",
+      "version": "2.3.1",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/gmc0vcfy4bww7z3wbocar/osint_parser.exe?rlkey=qw8d0l88ezijpusq8pyav9ras&dl=1",
-      "changelog": "Server orchestration, autoscroll toggle, warmup fix"
+      "url": "https://www.dropbox.com/scl/fi/v7ljzulm676p97cvgpjrr/osint_parser.exe?rlkey=09l5pam8u1lqnysgjcccwpczz&dl=1",
+      "changelog": "Fix duplicate results, age filter display, clean client markers"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправление WebInspector API"
     }
   },
-  "sig": "45a9e20f55259f59a6d71d062f8ad534091b46634196de57f7b509a61607ac2f"
+  "sig": "b54c7cfa94084638d34216ac299b19bcbde3cea29873799abfdc7a2571942431"
 }
