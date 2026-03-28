@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "2.1.9",
+      "version": "2.2.0",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/g4q4y5eu2agakghli49uw/osint_parser.exe?rlkey=md4ma5h6ragfwbmglkq8fjbq4&dl=1",
-      "changelog": "Fix selectable color crash, clickable cells in results"
+      "url": "https://www.dropbox.com/scl/fi/im52nvf9rm4ecpf7h7eur/osint_parser.exe?rlkey=deqf2r7kgz3k3wecwgz9mvs37&dl=1",
+      "changelog": "GUI stable release, all fixes applied"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправление WebInspector API"
     }
   },
-  "sig": "a783abfbd9d53cd8a8d0e4bd9d2dd07565cd03b349734a14b1bcbfc79a691707"
+  "sig": "c426641c8c370b2642f1b2fbd5cb19db5d612cbe45473880fecf9840e41199b8"
 }
