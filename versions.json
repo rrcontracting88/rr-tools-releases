@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "2.1.3",
+      "version": "2.1.4",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/bw1zd2fdnnhulprps28jc/osint_parser.exe?rlkey=9hzcczrznl6xzw0jeqzuvutid&dl=1",
-      "changelog": "SERVER_SECRET removed from exe, HWID via server, AES removed"
+      "url": "https://www.dropbox.com/scl/fi/0bcxm1u3iqt5edh2ppguz/osint_parser.exe?rlkey=5r76yy393vcsxeejlxogv6fzb&dl=1",
+      "changelog": "GUI version, full GotSMS management, security hardened"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправление WebInspector API"
     }
   },
-  "sig": "bdd2d640e830be4ec2d71015df0c5d3d076de94a72bc984baaa53b335d06cac5"
+  "sig": "e532587e2ad24f9ca5d3c7eb6c72f5b4ea9938ebd044517895742093c8a36d9c"
 }
