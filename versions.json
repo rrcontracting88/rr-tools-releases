@@ -1,8 +1,8 @@
 {
   "launcher": {
-    "version": "1.2.4",
-    "url": "https://www.dropbox.com/scl/fi/vgqrfbobe6m9c87x2k0v2/FBISoft.exe?rlkey=bd57vye61n6tv736nmx9tmpbw&dl=1",
-    "changelog": "SERVER_SECRET removed, HWID via server, no signatures in exe"
+    "version": "1.2.5",
+    "url": "https://www.dropbox.com/scl/fi/smd3mfrpwzss14d0y41qd/FBISoft.exe?rlkey=repiynjnus0nz7hezf3z9xwjv&dl=1",
+    "changelog": "SERVER_SECRET removed, HWID via server, auto-update fix"
   },
   "scripts": {
     "parser": {
@@ -24,5 +24,5 @@
       "changelog": "Исправление WebInspector API"
     }
   },
-  "sig": "ae7610ec1463ecff667b0b5c9bc6dc868a76085d5464258414d0c8c582c33363"
+  "sig": "cdb09eeb7af383f19760f525cff328ea9ceb51d056d83eb9f788f6f3972091fb"
 }
