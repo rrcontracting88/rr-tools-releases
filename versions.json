@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "2.3.4",
+      "version": "2.3.5",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/t2b1umb1mxa41xmcuc403/osint_parser.exe?rlkey=jiq5lukzkfqfapf33m6kx4r29&dl=1",
-      "changelog": "Server error retry, 60s flow timeout, removed direct parse calls"
+      "url": "https://www.dropbox.com/scl/fi/bf8weii9o8czjrcud39ln/osint_parser.exe?rlkey=p33p7fzcp43i6edvmmo8x66ql&dl=1",
+      "changelog": "Grade→Score (A=5), GotSMS retries, flow retry on error, bank limit in flow"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправление WebInspector API"
     }
   },
-  "sig": "0bcf6e002f7c2010439cd4a01be6d0a8dcad3db63350d8f6e8923bcaccaad1c1"
+  "sig": "03e1ed787f966893d234c8e3a6df46d26bd39b6d763dc9a206cf90558f14bd09"
 }
