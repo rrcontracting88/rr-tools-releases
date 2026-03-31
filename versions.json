@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "2.3.8",
+      "version": "2.3.9",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/w18l0u304fkukmv86kxo1/osint_parser.exe?rlkey=hqv2ye27saikniab3rix3p9ga&dl=1",
-      "changelog": "GotSMS error details, removed double retry, rent error logging"
+      "url": "https://www.dropbox.com/scl/fi/syo83xr9pxav7omaa8kie/osint_parser.exe?rlkey=pruw7ijgi8upxrwkb74d198cd&dl=1",
+      "changelog": "Rate limit fully server-controlled, bank_done fix, GotSMS error details"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправление WebInspector API"
     }
   },
-  "sig": "cb08e6afef10d6da9e9dba73afaf3054e840ecb9fec083fb52b5141b2cd060b4"
+  "sig": "e8013a510d8f428dc21e1958d06c6edba50107ad004a0b625b84638bac31f14e"
 }
