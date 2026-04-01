@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "2.4.0",
+      "version": "2.4.1",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/yqc1nx2b3j1af8xbvwh29/osint_parser.exe?rlkey=yy2q3wzm8v6x8fhoi98oovojw&dl=1",
-      "changelog": "CHD (Credit Header Data) integration, provider names removed, API limits for CHD"
+      "url": "https://www.dropbox.com/scl/fi/59l2dvh7cba5c0y8rzmil/osint_parser.exe?rlkey=wwh061idtlpe7ofq60fa1833o&dl=1",
+      "changelog": "All provider names removed from client, sb_ renamed to chd_"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -24,5 +24,5 @@
       "changelog": "Исправление WebInspector API"
     }
   },
-  "sig": "7837da2deed36d0d27fae7cc1f860f9a21e1848afa782b37e4cf1a8d991de587"
+  "sig": "4856bc105c3fc30924b03fdec143625709ed4b8fecb4640e0ced233a14e2e8c3"
 }
