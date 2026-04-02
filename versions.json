@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "2.5.1",
+      "version": "2.5.2",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/tdl1tbfe57eyb8jav0plv/osint_parser.exe?rlkey=ytzwlatxty23jq7lqhw1kgodp&dl=1",
-      "changelog": "Fix server auth: X-License-Key/X-HWID headers, correct API endpoints"
+      "url": "https://www.dropbox.com/scl/fi/5md6qqmvsbrjpr30udvto/osint_parser.exe?rlkey=89rgrrlxqvsu4t3f5582fm0g4&dl=1",
+      "changelog": "Full API audit: all endpoints fixed, SSN mapping, rents service name, refund button"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -33,5 +33,5 @@
       "changelog": "Fix canvas/WebGL rendering, window-position offscreen, example.com origin"
     }
   },
-  "sig": "26742f23d18ba16a87908dabe64136b8e3621482156e90ac515926641d0dfe1f"
+  "sig": "e829d833c666acbcbae616d9c6e29685bb475c2dded22a0399c2c456c1e32f81"
 }
