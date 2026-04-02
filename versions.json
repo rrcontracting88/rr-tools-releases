@@ -26,12 +26,12 @@
     "analyzer": {
       "name": "🔍 Network Analyzer",
       "description": "Анализ устройства и сети. Fraud Risk Score.",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "status": "beta",
       "module": "analyzer",
-      "url": "https://www.dropbox.com/scl/fi/g3km48n9a00q4a03dtd3r/analyzer.exe?rlkey=dwl2qloeqd3g3jvovzkne20du&dl=1",
-      "changelog": "Фикс Chrome fingerprint: синхронный JS, WebRTC polling, стабильный сбор данных"
+      "url": "https://www.dropbox.com/scl/fi/nslh1nea50doov1350n0q/analyzer.exe?rlkey=ciuq8zpvrs0x6dlos9579cigu&dl=1",
+      "changelog": "80+ атрибутов: WebGL hash, Math FPU, Connection API, Speech, Touch, Automation detection, CSS Media"
     }
   },
-  "sig": "54b692cf01b8cef9635fcdcbfd5273b3a8b170825ee1e2540090d174b9f395d0"
+  "sig": "2a0b65ed25b1940e0f46efac98361b34e6de635b0ef784ffc559f7b967ba4427"
 }
