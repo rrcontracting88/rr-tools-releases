@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "2.4.2",
+      "version": "2.4.3",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/g0k2otjfd6a65qi3ul8az/osint_parser.exe?rlkey=b2nk9f8rsowkdmoqx8ef08rai&dl=1",
-      "changelog": "Proxy support, adaptive throttling, retry queue, improved rate limit recovery"
+      "url": "https://www.dropbox.com/scl/fi/ezwaogv6wmvabn9p2aa1m/osint_parser.exe?rlkey=6xw9eep7b9jzksdjfulgv7x28&dl=1",
+      "changelog": "Proxy check button, proxy extension fix"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -33,5 +33,5 @@
       "changelog": "Fix canvas/WebGL rendering, window-position offscreen, example.com origin"
     }
   },
-  "sig": "aa5bc594f11fccfb5e44d095677d623cf31a3605d27646a61f956698b359fc09"
+  "sig": "06754d74ef7c9bbfefc874b4f1f982efc67f365e40d64227d4836daf82d61bfa"
 }
