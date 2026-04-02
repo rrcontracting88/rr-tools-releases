@@ -22,7 +22,16 @@
       "module": "Auto_Motion",
       "url": "https://www.dropbox.com/scl/fi/gfv6stk2ry58crx4kl4lg/Auto_Motion.exe?rlkey=v2rpa0gu3ef1r1zftyhpuyste&st=eu876bxt&dl=1",
       "changelog": "Исправление WebInspector API"
+    },
+    "analyzer": {
+      "name": "🔍 Network Analyzer",
+      "description": "Анализ устройства и сети. Fraud Risk Score.",
+      "version": "1.0.0",
+      "status": "beta",
+      "module": "analyzer",
+      "url": "https://www.dropbox.com/scl/fi/seyowfcwacixzlxnwqgb6/analyzer.exe?rlkey=2qqe87ntmmpt4hfslojjg2nzk&dl=1",
+      "changelog": "Первый релиз: device fingerprint, network analysis, fraud risk scoring"
     }
   },
-  "sig": "4856bc105c3fc30924b03fdec143625709ed4b8fecb4640e0ced233a14e2e8c3"
+  "sig": "4fe02d281891e2028b74af766cc24f4d1f669b937885a4344b3efc50c88f04d4"
 }
