@@ -26,12 +26,12 @@
     "analyzer": {
       "name": "🔍 Network Analyzer",
       "description": "Анализ устройства и сети. Fraud Risk Score.",
-      "version": "1.1.9",
+      "version": "1.2.0",
       "status": "beta",
       "module": "analyzer",
-      "url": "https://www.dropbox.com/scl/fi/w9fspxr8op4gz77drkwnz/analyzer.exe?rlkey=6ze24wwpa5fr7aus6ye3jtki2&dl=1",
-      "changelog": "Switch to browserleaks.com origin for WebRTC detection"
+      "url": "https://www.dropbox.com/scl/fi/b3qro85b2mxjacod4pyjl/analyzer.exe?rlkey=0wzxqj1r95zcbmb91wu6dtdz6&dl=1",
+      "changelog": "Fix canvas/WebGL rendering, window-position offscreen, example.com origin"
     }
   },
-  "sig": "32e6d5116cb743b33c716988af7a99ad43391a7946cde06bff26d333cb48fb83"
+  "sig": "c38d0e980d2f54023fae50969f2e66bafb14b3a257e7dee50a92073767ffa7bc"
 }
