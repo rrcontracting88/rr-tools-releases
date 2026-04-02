@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "2.4.5",
+      "version": "2.4.6",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/kowxasknoey2skkiedope/osint_parser.exe?rlkey=vjy7hkl3d53yovrxq54p5ipku&dl=1",
-      "changelog": "Auto IP rotation via 9Proxy API, state filter, adaptive throttling"
+      "url": "https://www.dropbox.com/scl/fi/204ijb2jgqqtxxza699cp/osint_parser.exe?rlkey=rbeke8qtmto1n8bhwy0tn50ne&dl=1",
+      "changelog": "Rotation debug logging, Request failed handling, captcha Submit button fix"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -33,5 +33,5 @@
       "changelog": "Fix canvas/WebGL rendering, window-position offscreen, example.com origin"
     }
   },
-  "sig": "a788b26b6b59cbca52c7336b5f4a1aec90ad51cefaf7741c234c8520f8b5efe3"
+  "sig": "26da517c62d61fd8b5e62baa07d864730e5ccc4b841b9b388d947074d9597646"
 }
