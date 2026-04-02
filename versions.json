@@ -26,12 +26,12 @@
     "analyzer": {
       "name": "🔍 Network Analyzer",
       "description": "Анализ устройства и сети. Fraud Risk Score.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "status": "beta",
       "module": "analyzer",
-      "url": "https://www.dropbox.com/scl/fi/seyowfcwacixzlxnwqgb6/analyzer.exe?rlkey=2qqe87ntmmpt4hfslojjg2nzk&dl=1",
-      "changelog": "Первый релиз: device fingerprint, network analysis, fraud risk scoring"
+      "url": "https://www.dropbox.com/scl/fi/g3km48n9a00q4a03dtd3r/analyzer.exe?rlkey=dwl2qloeqd3g3jvovzkne20du&dl=1",
+      "changelog": "Фикс Chrome fingerprint: синхронный JS, WebRTC polling, стабильный сбор данных"
     }
   },
-  "sig": "4fe02d281891e2028b74af766cc24f4d1f669b937885a4344b3efc50c88f04d4"
+  "sig": "54b692cf01b8cef9635fcdcbfd5273b3a8b170825ee1e2540090d174b9f395d0"
 }
