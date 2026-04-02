@@ -26,12 +26,12 @@
     "analyzer": {
       "name": "🔍 Network Analyzer",
       "description": "Анализ устройства и сети. Fraud Risk Score.",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "status": "beta",
       "module": "analyzer",
-      "url": "https://www.dropbox.com/scl/fi/nbdl3zhpwo8fd7e8gipox/analyzer.exe?rlkey=hgu73qoer0g3v0nxquirmvze3&dl=1",
-      "changelog": "Fix stdin crash in noconsole exe"
+      "url": "https://www.dropbox.com/scl/fi/ntpzimt4tbaa3572d6815/analyzer.exe?rlkey=1w9iv8asobciyn4q0lennyhj1&dl=1",
+      "changelog": "Fix subprocess startup in noconsole, safe browser detection"
     }
   },
-  "sig": "5ff51b5b705b9ee9cda1c8eafa917f894843ff21fad72f5a52e921a40fecd0b7"
+  "sig": "4dc7f6b879fc13fa2773ca773c4a022589f2c4d96e0e4c97632cd83858752b24"
 }
