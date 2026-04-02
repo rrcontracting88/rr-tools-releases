@@ -1,8 +1,8 @@
 {
   "launcher": {
-    "version": "1.3.2",
-    "url": "https://www.dropbox.com/scl/fi/wa0uwabelx4p5v72nqike/InfoService.exe?rlkey=9nlvq0afrh3gph80lv472kl1x&dl=1",
-    "changelog": "Fix _MEIPASS path for PyInstaller onefile"
+    "version": "1.3.3",
+    "url": "https://www.dropbox.com/scl/fi/ub2p3hb71yx94p8286tnf/InfoService.exe?rlkey=y729lsmat6kibyntdgbyqtdjk&dl=1",
+    "changelog": "Fix launch_script NoneType error, Dropbox download with User-Agent"
   },
   "scripts": {
     "parser": {
@@ -33,5 +33,5 @@
       "changelog": "Fix canvas/WebGL rendering, window-position offscreen, example.com origin"
     }
   },
-  "sig": "aac4ac2c88aa6c1dc596f3cc97c4f70544e59a0880e73feb386c8b928b11c2f6"
+  "sig": "d408019cb740d90a7f9f34933b2fea2516aa8893b98d2159ee6bfee2a8419a82"
 }
