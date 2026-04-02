@@ -26,12 +26,12 @@
     "analyzer": {
       "name": "🔍 Network Analyzer",
       "description": "Анализ устройства и сети. Fraud Risk Score.",
-      "version": "1.1.5",
+      "version": "1.1.6",
       "status": "beta",
       "module": "analyzer",
-      "url": "https://www.dropbox.com/scl/fi/h6qq4tvdo27ad81oijkuv/analyzer.exe?rlkey=iiqxk3u8u7hha7ktk8nbnmhdv&dl=1",
-      "changelog": "Debug log for launch diagnostics"
+      "url": "https://www.dropbox.com/scl/fi/9cnmoo228fytbup6k6h3q/analyzer.exe?rlkey=mx9n6tab8vuamlth3u51uju3d&dl=1",
+      "changelog": "Fix wmic hang on startup, lazy browser scan on button click"
     }
   },
-  "sig": "d6e8e52219f3c9e7bd205f2819584b65a72b2cb328824f2d7ab0f2da11dcd0f8"
+  "sig": "f5e5043f6de66eb648e7da04ec0b54166337ceb3ff5647e1a8096012fc585bb2"
 }
