@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "2.4.9",
+      "version": "2.5.0",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/srshh9phx6ftlkr13ldnk/osint_parser.exe?rlkey=ug4i0oyl8bctxy1mdh923uwd3&dl=1",
-      "changelog": "Fix _MEIPASS path for PyInstaller onefile"
+      "url": "https://www.dropbox.com/scl/fi/or07lhrkct5ssutxbewva/osint_parser.exe?rlkey=vmlnrpdgu2wm1v4u2it5lmtsx&dl=1",
+      "changelog": "Balance refresh, GotSMS plans fix, key status button"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -33,5 +33,5 @@
       "changelog": "Fix canvas/WebGL rendering, window-position offscreen, example.com origin"
     }
   },
-  "sig": "d408019cb740d90a7f9f34933b2fea2516aa8893b98d2159ee6bfee2a8419a82"
+  "sig": "a7ce4e66c5534a87bb117dd5c0d1d8bac53ad406fc4d5bba669a82f0914dfacb"
 }
