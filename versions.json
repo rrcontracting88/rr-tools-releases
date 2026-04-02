@@ -1,18 +1,18 @@
 {
   "launcher": {
-    "version": "1.2.3",
-    "url": "https://www.dropbox.com/scl/fi/i7kalgbzqpkl8mzk545th/FBISoft.exe?rlkey=5m7izm0aysdvzual08gds4j9q&dl=1",
-    "changelog": "Cloudzy сервер, фикс автообновления, SSL, цены"
+    "version": "1.3.1",
+    "url": "https://www.dropbox.com/scl/fi/4l117mf31sgaspv8gr2qb/InfoService.exe?rlkey=sbxyx3gd19ap1a9j0lgd8ur8b&dl=1",
+    "changelog": "PyWebView redesign, Apple-style UI, dark/light theme, frameless window"
   },
   "scripts": {
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "2.4.7",
+      "version": "2.4.8",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/nn3t850pf86cmqnwwx31d/osint_parser.exe?rlkey=mg65vk8gc6eiw0uotcdrt2ga9&dl=1",
-      "changelog": "Security hardening: removed provider markers, obfuscated modes, generic HTML trimming"
+      "url": "https://www.dropbox.com/scl/fi/dxg5bk3gwp4bayn131yir/osint_parser.exe?rlkey=n9gjtjzomt1dmjs4e1crifk2z&dl=1",
+      "changelog": "PyWebView Finder-style UI, Apple design, dark/light theme, SVG icons"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -33,5 +33,5 @@
       "changelog": "Fix canvas/WebGL rendering, window-position offscreen, example.com origin"
     }
   },
-  "sig": "7aaa1ed325c55cd74f74a9b49675f3b6cd17f2265dead2e272bb4929beda5c55"
+  "sig": "ffeb096a8e8ea98ff0bfba643e347217c42443bd881a126927a01edac511b28f"
 }
