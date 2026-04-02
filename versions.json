@@ -26,12 +26,12 @@
     "analyzer": {
       "name": "🔍 Network Analyzer",
       "description": "Анализ устройства и сети. Fraud Risk Score.",
-      "version": "1.1.7",
+      "version": "1.1.8",
       "status": "beta",
       "module": "analyzer",
-      "url": "https://www.dropbox.com/scl/fi/sj10w01lm8ldy7e7qqkkz/analyzer.exe?rlkey=w30raxnqojkwobvii41i4fboh&dl=1",
-      "changelog": "Replace wmic with PowerShell Get-CimInstance for process detection"
+      "url": "https://www.dropbox.com/scl/fi/c8w7ssyyjnlggvtiynbic/analyzer.exe?rlkey=1tx1sm65ay15madaicaox7a0c&dl=1",
+      "changelog": "Deep network checks: WebRTC fix, DNS leak, IPv6 detection, real HTTPS origin"
     }
   },
-  "sig": "6a0033c79d59826b7d00a4c52c2bef22938b6d5168898a3fba147fbb58c9e3f5"
+  "sig": "a35794097a60361e73aac714f3e252ac88cbcd5f0eaff9057004279a7fdeabef"
 }
