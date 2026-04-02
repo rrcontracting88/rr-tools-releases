@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "2.5.0",
+      "version": "2.5.1",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/or07lhrkct5ssutxbewva/osint_parser.exe?rlkey=vmlnrpdgu2wm1v4u2it5lmtsx&dl=1",
-      "changelog": "Balance refresh, GotSMS plans fix, key status button"
+      "url": "https://www.dropbox.com/scl/fi/tdl1tbfe57eyb8jav0plv/osint_parser.exe?rlkey=ytzwlatxty23jq7lqhw1kgodp&dl=1",
+      "changelog": "Fix server auth: X-License-Key/X-HWID headers, correct API endpoints"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -33,5 +33,5 @@
       "changelog": "Fix canvas/WebGL rendering, window-position offscreen, example.com origin"
     }
   },
-  "sig": "a7ce4e66c5534a87bb117dd5c0d1d8bac53ad406fc4d5bba669a82f0914dfacb"
+  "sig": "26742f23d18ba16a87908dabe64136b8e3621482156e90ac515926641d0dfe1f"
 }
