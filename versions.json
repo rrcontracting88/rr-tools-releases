@@ -1,18 +1,18 @@
 {
   "launcher": {
-    "version": "1.3.1",
-    "url": "https://www.dropbox.com/scl/fi/4l117mf31sgaspv8gr2qb/InfoService.exe?rlkey=sbxyx3gd19ap1a9j0lgd8ur8b&dl=1",
-    "changelog": "PyWebView redesign, Apple-style UI, dark/light theme, frameless window"
+    "version": "1.3.2",
+    "url": "https://www.dropbox.com/scl/fi/wa0uwabelx4p5v72nqike/InfoService.exe?rlkey=9nlvq0afrh3gph80lv472kl1x&dl=1",
+    "changelog": "Fix _MEIPASS path for PyInstaller onefile"
   },
   "scripts": {
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "2.4.8",
+      "version": "2.4.9",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/dxg5bk3gwp4bayn131yir/osint_parser.exe?rlkey=n9gjtjzomt1dmjs4e1crifk2z&dl=1",
-      "changelog": "PyWebView Finder-style UI, Apple design, dark/light theme, SVG icons"
+      "url": "https://www.dropbox.com/scl/fi/srshh9phx6ftlkr13ldnk/osint_parser.exe?rlkey=ug4i0oyl8bctxy1mdh923uwd3&dl=1",
+      "changelog": "Fix _MEIPASS path for PyInstaller onefile"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -33,5 +33,5 @@
       "changelog": "Fix canvas/WebGL rendering, window-position offscreen, example.com origin"
     }
   },
-  "sig": "ffeb096a8e8ea98ff0bfba643e347217c42443bd881a126927a01edac511b28f"
+  "sig": "aac4ac2c88aa6c1dc596f3cc97c4f70544e59a0880e73feb386c8b928b11c2f6"
 }
