@@ -26,12 +26,12 @@
     "analyzer": {
       "name": "🔍 Network Analyzer",
       "description": "Анализ устройства и сети. Fraud Risk Score.",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "status": "beta",
       "module": "analyzer",
-      "url": "https://www.dropbox.com/scl/fi/fj27fxdt6gmdita4e77cc/analyzer.exe?rlkey=2k0tnkvodc6jhn6f23o6mwq9s&dl=1",
-      "changelog": "Фикс topbar: theme reuse, except continue вместо break"
+      "url": "https://www.dropbox.com/scl/fi/4nrhoc6o396nvkqq9ekd2/analyzer.exe?rlkey=65kdn1d4d05ecgtzcltsy0f8w&dl=1",
+      "changelog": "Port scanning (16 портов), deep storage checks, remote access detection, ThreatMetrix parity"
     }
   },
-  "sig": "fb5172b3a1ffb6ebff7197986008dfb7de3f7c52d3a87fbf8b1a1311515bca64"
+  "sig": "d85115a1f54c40cd752466dba23fc43acbebb28be5327494f42c283f28011276"
 }
