@@ -26,12 +26,12 @@
     "analyzer": {
       "name": "🔍 Network Analyzer",
       "description": "Анализ устройства и сети. Fraud Risk Score.",
-      "version": "1.1.6",
+      "version": "1.1.7",
       "status": "beta",
       "module": "analyzer",
-      "url": "https://www.dropbox.com/scl/fi/9cnmoo228fytbup6k6h3q/analyzer.exe?rlkey=mx9n6tab8vuamlth3u51uju3d&dl=1",
-      "changelog": "Fix wmic hang on startup, lazy browser scan on button click"
+      "url": "https://www.dropbox.com/scl/fi/sj10w01lm8ldy7e7qqkkz/analyzer.exe?rlkey=w30raxnqojkwobvii41i4fboh&dl=1",
+      "changelog": "Replace wmic with PowerShell Get-CimInstance for process detection"
     }
   },
-  "sig": "f5e5043f6de66eb648e7da04ec0b54166337ceb3ff5647e1a8096012fc585bb2"
+  "sig": "6a0033c79d59826b7d00a4c52c2bef22938b6d5168898a3fba147fbb58c9e3f5"
 }
