@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "2.5.2",
+      "version": "2.5.3",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/5md6qqmvsbrjpr30udvto/osint_parser.exe?rlkey=89rgrrlxqvsu4t3f5582fm0g4&dl=1",
-      "changelog": "Full API audit: all endpoints fixed, SSN mapping, rents service name, refund button"
+      "url": "https://www.dropbox.com/scl/fi/36p3otx0almahos632vhr/osint_parser.exe?rlkey=bwfz041zv31fzekingmyjikgl&dl=1",
+      "changelog": "Fix plans country filter, rents status filter, debug plan format"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -33,5 +33,5 @@
       "changelog": "Fix canvas/WebGL rendering, window-position offscreen, example.com origin"
     }
   },
-  "sig": "e829d833c666acbcbae616d9c6e29685bb475c2dded22a0399c2c456c1e32f81"
+  "sig": "e6ef73fa2be17797f8b2f5ac7da53a306ec9dc87fd092d33c1fc15f826de9002"
 }
