@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "2.6.1",
+      "version": "2.6.2",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/14iq96t65akens82vf33o/osint_parser.exe?rlkey=5m8yubsdsmxga7sm16ovaedpm&dl=1",
-      "changelog": "CHD→IDL rename, API limits display, SSN clean response, Cloudflare auto-click, Bank score fix"
+      "url": "https://www.dropbox.com/scl/fi/lvfgezkdyg9s3t8h43tzl/osint_parser.exe?rlkey=gumkuwwevdvsurnmph5oucdpm&dl=1",
+      "changelog": "Performance: async server, adaptive page load, auto-proxy rotation, TPS health tracker, server cleanup"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -33,5 +33,5 @@
       "changelog": "Fix canvas/WebGL rendering, window-position offscreen, example.com origin"
     }
   },
-  "sig": "d3b6a62cb47e1c25a5e01079f940642be375768e97abd650589cb1d9c6f2932d"
+  "sig": "b3887fcf20ef23f3f5025e1238d90fc1acd606427a650b3d16fa73f9481411db"
 }
