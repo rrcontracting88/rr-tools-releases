@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "2.5.4",
+      "version": "2.5.5",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/dbx6x2nijgnn9rc4vuq0z/osint_parser.exe?rlkey=3hk93ap7nigo6mk2696x04vw0&dl=1",
-      "changelog": "Full Chrome flow engine ported: TPS/WP/Bank checks, captcha, proxy rotation, results"
+      "url": "https://www.dropbox.com/scl/fi/i6zoiwmngor1rb8g1m4nq/osint_parser.exe?rlkey=erc2g77a3nztya0jb5nfphm51&dl=1",
+      "changelog": "Fix buy: one-by-one rent, detailed error logging"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -33,5 +33,5 @@
       "changelog": "Fix canvas/WebGL rendering, window-position offscreen, example.com origin"
     }
   },
-  "sig": "efefb35edf72b2458d3adf3eaa337d09dfd7bbfc138ec09d595b2ebe1575e0ec"
+  "sig": "e076bdb9cb1693078e83e7356e190cb8a6bcf338b2284491b46b5dcf92c1bd3a"
 }
