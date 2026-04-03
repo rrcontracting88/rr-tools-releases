@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "2.6.3",
+      "version": "2.6.4",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/0xm48jl5fnal8u35sptl6/osint_parser.exe?rlkey=2s6kz27waj7ovntrx85cqy18z&dl=1",
-      "changelog": "Multi-threaded Chrome: 3 parallel workers, warmup after rotation, Submit auto-click, GotSMS rate limit retry"
+      "url": "https://www.dropbox.com/scl/fi/g6l1j1rqqapynmnih8abu/osint_parser.exe?rlkey=ohjz85ohoieils5mkjx0xv7bq&dl=1",
+      "changelog": "Fix duplicate results in multi-thread mode, skip already-written positions on done"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -33,5 +33,5 @@
       "changelog": "Fix canvas/WebGL rendering, window-position offscreen, example.com origin"
     }
   },
-  "sig": "5c1b4a12994765fbd7059f34eace1701c3d6f23de5f6c85de1efe6dd8587631b"
+  "sig": "a272ee9a9f4d0613ed264b38ae7bc5bc7ed515bf26f0aa91e901b91ee2fc409d"
 }
