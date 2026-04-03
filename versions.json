@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "2.6.5",
+      "version": "2.6.6",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/1ibtighwt269cpnvhne8m/osint_parser.exe?rlkey=ljc4qk6mhrllmaxlepiow93ow&dl=1",
-      "changelog": "Fix: write only last result on done, eliminate all duplicate entries"
+      "url": "https://www.dropbox.com/scl/fi/dmsj8o1vbqp3ftrl8dswh/osint_parser.exe?rlkey=69mghli9d5h9fi6560oxbl1h0&dl=1",
+      "changelog": "Fix: aggregated progress across all workers, worker log prefixes [W0/W1/W2]"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -33,5 +33,5 @@
       "changelog": "Fix canvas/WebGL rendering, window-position offscreen, example.com origin"
     }
   },
-  "sig": "7952f8ee15418da9a53521e3c60fcb399ae5719b3012fad37b98efef42fa367c"
+  "sig": "6a92df2ea04a3581aeda8b94a5c6a8d3142b5f41d23dc41fd8c002c6ea973bd8"
 }
