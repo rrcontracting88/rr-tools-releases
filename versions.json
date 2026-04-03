@@ -8,11 +8,11 @@
     "parser": {
       "name": "📱 Osint Parser",
       "description": "Сбор информации для удобной и продуктивной работы.",
-      "version": "2.5.8",
+      "version": "2.5.9",
       "status": "stable",
       "module": "osint_parser",
-      "url": "https://www.dropbox.com/scl/fi/8r67ix8soijlsz3u2nldp/osint_parser.exe?rlkey=uiuqhi1ywz4vgzbtzxilfwiub&dl=1",
-      "changelog": "Bug fixes: code dedup, report saving, captcha detection, proxy_state, XSS fix"
+      "url": "https://www.dropbox.com/scl/fi/1cp182wj553ygkbznosjl/osint_parser.exe?rlkey=u0b3fc5hcop3ejucihqcaxou3&dl=1",
+      "changelog": "Fix captcha: wait for widget to load before solving, no premature 2Captcha"
     },
     "auto_motion": {
       "name": "🤖 Auto Motion",
@@ -33,5 +33,5 @@
       "changelog": "Fix canvas/WebGL rendering, window-position offscreen, example.com origin"
     }
   },
-  "sig": "93b63701126f4b65cddab7659b0626a89ab9e62c134bc7a62c817c088d5c05c8"
+  "sig": "1b871dbcc2467fb01d441d3c0a9adb975d361c10bcf0250bbafcb5f4776a3a4f"
 }
